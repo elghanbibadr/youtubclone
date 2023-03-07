@@ -2,6 +2,6 @@ import React from 'react'
 
 export const SearchBar = () => {
   return (
-    <div>SearchBar</div>
+    <div className='text-red-700'>SearchBar</div>
   )
 }
