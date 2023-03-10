@@ -6,7 +6,7 @@ export const linkList=[
          src:home
     },
     {
-        name:"JS Mastery",
+        name:"JSMastery",
         // src:
          src:home
 

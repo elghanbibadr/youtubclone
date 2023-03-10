@@ -4,7 +4,7 @@ import { Link } from './Link'
 export const SideBar = () => {
   return (
     <div>
-      <ul>
+      <ul className='flex items-center overflow-y-auto'>
          {linkList.map(({name,src},index)=>{
           return <Link key={index} name={name} src={src}  />
         })} 
