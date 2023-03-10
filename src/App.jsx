@@ -4,7 +4,7 @@ import { SearchBar } from './Component/header/SearchBar'
 function App() {
  
  return  <>
-     <SearchBar />
+      <h1>hello world</h1>
      </>
  
 }
