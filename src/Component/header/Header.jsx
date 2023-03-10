@@ -1,6 +1,6 @@
 import React from 'react'
 import { SearchBar } from './SearchBar'
-import youtubLogo from "../../assets/youtbLogo.png"
+import youtubLogo from "../../../public/assets/youtbLogo.png"
 const Header = () => {
   return (
     <header className='flex items-center justify-between'>

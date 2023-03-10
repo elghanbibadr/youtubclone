@@ -1,68 +1,96 @@
-import home from "../src/assets/house-solide.svg";
+ import home from "../public/assets/apple.svg";
 
 export const linkList=[
     {
         name:"New",
-        src:home
+         src:home
     },
     {
         name:"JS Mastery",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"Coding",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"ReactJs",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"NextJs",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"Music",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"Education",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"Podcast",
-        src:home
+        // src:
+         src:home
+
     },
     {
         name:"Movie",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Gaming",
-        src:home
+        // src:home
     },
     {
         name:"Live",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Sport",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Sport",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Sport",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Sport",
-        src:home
+        // src:home
+         src:home
+
     },
     {
         name:"Sport",
-        src:home
+        // src:home
+         src:home
+
     },
 ]
